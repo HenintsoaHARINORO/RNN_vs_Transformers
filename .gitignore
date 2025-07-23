@@ -1,0 +1,6 @@
+.venv
+checkpoints_demo
+data
+checkpoints_mnist_demo
+__pycache__
+.idea
